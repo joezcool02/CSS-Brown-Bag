@@ -1,0 +1,35 @@
+#div1{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+#div1:hover{
+    width: 120px;
+    height: 120px;
+    background-color: red;
+}
+
+#div2{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+#div2:hover{
+    width: 120px;
+    height: 120px;
+    background-color: orange;
+}
+
+#div3{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+#div3:hover{
+    width: 120px;
+    height: 120px;
+    background-color: green;
+}
